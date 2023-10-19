@@ -48,3 +48,8 @@ html,body{
 #heading #secondh1{
     margin-left: 230px;
 }
+
+.blocktext{
+    width:fit-content;
+    text-align: right;
+}
